@@ -5594,3 +5594,8 @@ h6 {
 .footer_bot{
   float:left;
 }
+
+.footer-area .single-footer-widget h5{
+  width:80px;
+  margin-bottom: 50px;
+}
